@@ -1,0 +1,3 @@
+PyAutoGUI==0.9.54
+selenium==4.24.0
+webdriver_auto_update==1.2.1
